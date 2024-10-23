@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eanicorne.github.io/eanicorne.eanicorne
+Sitemap: https://eanicorne.github.io/app/eanicorne.eanicorne
+Sitemap: https://eanicorne.github.io/assets/eanicorne.eanicorne
+Sitemap: https://eanicorne.github.io/css/eanicorne.eanicorne
+Sitemap: https://eanicorne.github.io/includes/eanicorne.eanicorne
+Sitemap: https://eanicorne.github.io/item/eanicorne.eanicorne
+Sitemap: https://eanicorne.github.io/src/eanicorne.eanicorne
